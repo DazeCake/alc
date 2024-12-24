@@ -1,0 +1,6 @@
+.venv/
+devices/
+*.json
+*.xml
+src/__pycache__/
+res\busybox
