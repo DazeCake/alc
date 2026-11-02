@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "device-01",
+    "ip": "192.168.1.101",
+    "token": "replace-with-device-token"
+  },
+  {
+    "id": 2,
+    "name": "device-02",
+    "ip": "192.168.1.102:5555",
+    "token": "replace-with-device-token"
+  }
+]

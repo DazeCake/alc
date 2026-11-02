@@ -1,6 +1,10 @@
 .venv/
 devices/
 *.json
+!res/devices.example.json
 *.xml
-src/__pycache__/
-res\busybox
+__pycache__/
+*.py[cod]
+res/busybox
+.DS_Store
+.ruff_cache/
